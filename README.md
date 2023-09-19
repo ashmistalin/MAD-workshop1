@@ -1,6 +1,6 @@
 # MAD-workshop1
 
-## Create an android application for displaying the student details like Name,Register Number,Department and Year.Apply the different font size ,font style and  font color in view.
+
 
 ## AIM:
 To Create an android application for displaying the student details like Name,Register Number,Department and Year.Apply the different font size ,font style and  font color in view.
