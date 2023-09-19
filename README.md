@@ -113,7 +113,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-
+![Screenshot (319)](https://github.com/ashmistalin/MAD-workshop1/assets/103128410/40cc1022-04aa-4174-be67-2778bb914374)
 
 ## RESULT:
 Thus the program to Create an android application for displaying the student details like Name,Register Number,Department and Year.Apply the different font size ,font style and  font color in view is created and the output is verified.
